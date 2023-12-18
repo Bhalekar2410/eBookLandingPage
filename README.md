@@ -1,5 +1,5 @@
 # eBookLandingPage 
- landing page dedicated to the eBook "You Can Win" written by Shiv Khera.
+ landing page dedicated to the eBook "You Can Win" 📕 written by Shiv Khera.
  deploy
 
 # Project Overview
@@ -39,8 +39,9 @@ The project follows a straightforward structure:
 
 
 # Acknowledgments
-The template used in this project is sourced from TemplateMonster.
-Special thanks to the author of "You Can Win" for providing inspiration for this project.
-Thank you for choosing this landing page template! We hope it effectively promotes the "You Can Win" eBook and provides a delightful experience for your visitors. If you have any questions or feedback, please feel free to reach out.
+- The template used in this project is sourced from TemplateMonster.
+- Special thanks to the author of "You Can Win" for providing inspiration for this project.
+  
+🤩Thank you for choosing this landing page template! We hope it effectively promotes the "You Can Win" eBook and provides a delightful experience for your visitors. If you have any ❓ questions or feedback, please feel free to reach out🤝.
 
 # Happy coding! 🚀
