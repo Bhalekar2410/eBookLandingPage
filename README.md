@@ -1,8 +1,14 @@
-# eBookLandingPage ************* link[Here]("https://bhalekar2410.github.io/eBookLandingPage/")
+# eBookLandingPage 
  landing page dedicated to the eBook "You Can Win" written by Shiv Khera.
+ deploy
 
 # Project Overview
 Welcome to the "You Can Win" eBook Landing Page project! This project is a simple and elegant web page designed to promote and showcase the renowned book "You Can Win." The landing page is crafted using HTML, CSS, and JavaScript to create a seamless and engaging user experience.
+
+# Deployed Project
+
+You can access the deployed version of the project [here](https://bhalekar2410.github.io/eBookLandingPage/).
+
 
 # Features
 - 1. Responsive Design
